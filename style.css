@@ -1,0 +1,699 @@
+body{
+    margin: 0;
+    padding: 0;
+	
+   
+}
+@media(max-width:768px){
+   li,a, #respon{
+        font-size: 14px;
+    }
+
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.image_num1{
+    margin: auto;
+  }
+.container{
+    font-size: 20px;
+    inline-size: auto;
+}
+header{
+    border-bottom: 2px solid #F48C25;
+}
+button{
+    color:black;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+#myHome{
+    border-bottom: 2px solid;
+    
+  
+}
+
+.nav-item:hover{
+  
+    transform: scale(.9);
+    transition: .1s;
+    
+    
+}
+.nav-item{
+    border-right: 2px solid black ;
+}
+
+.main_title{
+    border-bottom: 3px solid  red;
+}
+.spannum_1{
+    margin-left:10px;
+}
+
+.main_button{
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: fantasy;
+    margin-top: 20px;
+}
+.button_1{
+    background-color: greenyellow;
+    width: 200px;
+    height: 50px;
+    border: 5px solid;
+    border-radius: 20px;
+   
+}
+.button_1:hover{
+    background-color: red;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transform: scale(.8);
+    transition: .3s;
+    
+}
+.margin{
+    color: red;
+}
+.mainheader{
+    text-align: center;
+    margin: auto;
+    border-bottom: 1px solid #ddd;
+}
+.motivate-2{
+    font-family: auto;
+    font-weight: bold;
+}
+marquee{
+}
+/* marquee:hover{
+    color: royalblue;
+    transform: scale(.8);
+    transition: .3s;
+    text-decoration: underline;
+
+} */
+.table{
+    margin-top: 20px;
+}
+.photo_Galary{
+    text-align: center;
+    margin: auto;
+    border-bottom: 2px solid;
+    font-weight: bold;
+}
+.image{
+    margin-top: 50px;
+}
+.hover1:hover{
+    transform: scale(.9);
+    transition: .3s;
+    
+}
+
+.hover2:hover{
+    transform: scale(.9);
+    transition: .3s;
+}
+
+.hover3:hover{
+    transform: scale(.9);
+    transition: .3s;  
+}
+
+
+.hover4:hover{
+    transform: scale(.9);
+    transition: .3s;  
+}
+
+
+.hover5:hover{
+    transform: scale(.9);
+    transition: .3s; 
+}
+
+
+.hover6:hover{
+    transform: scale(.9);
+    transition: .3s; 
+}
+
+
+.hover7:hover{
+    transform: scale(.9);
+    transition: .3s;
+}
+
+
+.hover8:hover{
+    transform: scale(.9);
+    transition: .3s;
+}
+.mybtn2{
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    font-family: arial;
+    font-weight: bold;
+}
+.main2nd_btn{
+    width: 250px;
+    height: 50px;
+    font-family: arial;
+    font-weight: bold;
+    font-style: italic;
+    border: 3px solid;
+    border-radius: 300px;
+    background: black;
+    color: white;
+}
+.main2nd_btn:hover{
+    background:crimson;
+}
+.google_map{
+border-top: 1px solid white;
+}
+.location{
+    margin: auto;
+    text-align: center;
+    border-bottom: 3px solid;
+    font-weight: bold;
+}
+.main_footer{
+    padding: 20px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    font-family: arial black;
+   
+}
+ #mynav{
+    background-color: black;
+   
+} 
+#bar{
+    color: black;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.img2{
+    box-shadow: 2px 2px 2px 2px #ddd;
+}
+.img2:hover{
+    opacity: 0.9;
+    
+}
+#introduce{
+    color: black;
+}
+.hover1{
+    border: 2px solid black;
+}
+
+.hover2{
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+.hover2{
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+
+.hover3{
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+.hover4{
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+.hover5{
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+.hover6{
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+.hover7{
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+.hover8{
+    border: 2px solid black;
+    border-radius: 2px;
+}
+.tp{
+    height: 200px;
+    padding: 20px;
+    
+  
+}
+.teacher{
+    margin: auto;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 100px;
+    margin-top: 20px;
+    background-color: #ddd;
+}
+.tapos{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+#teacher1:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+
+#teacher2:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+#teacher3:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+#teacher4:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+#teacher5:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+#teacher6:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+#teacher7:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+#teacher8:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+
+#teacher9:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+
+
+#teacher10:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+
+#teacher11:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+
+#teacher12:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+#teacher13:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+
+#teacher14:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+#teacher15:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+#teacher16:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+
+#teacher17:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+
+#teacher18:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+
+#teacher19:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+#teacher20:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+#teacher21:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+
+#teacher22:hover{
+    transform: scale(.9);
+    transition: .3s;
+    opacity: 5px;
+ 
+}
+.p2bc{
+    background:cadetblue;
+    
+}
+#fm{
+    margin-top: 10px;
+}
+#myteacher{
+    color: black;
+}
+.my_title{
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px 0px;
+    color: brown;
+}
+.mar_footer{
+    margin-top: 30px;
+   
+}
+#student_color{
+    color:black;
+}
+.Sylebus{
+    margin: auto;
+    text-align: center;
+    padding: 20px 0px;
+    margin-top: 50px;
+}
+
+
+    .Sylebus_design{
+    
+        font-size: 50px;
+            
+        text-decoration: none;
+            
+        list-style-type: none;
+        border: 2px solid;
+    border-radius: 10px;
+        }
+.Class_design{
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    font-size: 50px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+.Class_routine{
+    text-align: center;
+    margin: auto;
+}
+.Exam_routine{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+.Exam_design{
+    border: 2px solid;
+    border-radius: 10px;
+}
+.all_acedemic{
+    background: yellow;
+}
+.nama_footer{
+    margin-top: 30px;
+}
+#my_acedemic{
+    color: black;
+}
+.data{
+    font-size: 25px;
+    padding: 20px;
+    text-align: center;
+}
+.admission{
+    margin-top: 50px;
+}
+#admission_design{
+    font-size: 30px;
+    padding: 20px;
+    color: red;
+}
+#admission_footer{
+   margin-top: 200px;
+}
+.admission_data{
+    text-align: center;
+    margin: auto;    
+
+}
+#design_admission{
+    color: black;
+}
+.folafol{
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+}
+.class6_design{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 40px;
+    color: brown;
+}
+.brown{
+    color: brown;
+}
+.ordhobarshik_6{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+.barshik_6{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+}
+.reasult_border{
+    border: 30px solid blueviolet;
+    margin-top: 20px;
+}
+#design_reasult{
+    color: black;
+}
+.pdf_design{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    background: aquamarine;
+}
+.roll_design{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 26px;
+    background: aquamarine;
+}
+.reasult_footer{
+    margin-top: 200px;
+}
+#gallery_design{
+    color: black;
+}
+#complain_borad{
+    color: black;
+}
+.notis{
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+}
+.contact1{
+    text-align: center;
+    margin-top: 50px;
+    color: red;
+    font-family: arial black;
+    font-weight: bold;
+}
+.my_contact{
+    font-weight: bold;
+    font-style: italic;
+}
+.contact2{
+    text-align: center;
+    margin-top: 20px;    
+
+}
+.timer{
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid;
+    width: 500px;
+    border-radius: 500px;
+    background: green;
+    color: white;
+    height: 75px;
+}
+.design_timer{
+    padding: 17px;
+}
+.motivate-2{
+    margin-top: 20px;
+}
+.exam_r{
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+}
+.class_r{
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+#all_r{
+    color: black;
+}
+html{
+    scroll-behavior: smooth;
+}
+/* .gotopbtn{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: #27ae60;
+    bottom: 40px;
+    right: 50px;
+
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22px;
+} */
+/* .border_radius{
+    border: 10px solid;
+} */
+.bbimg{
+    width: 100%;
+}
+.h_image{
+    width: 100%;
+    margin-top: 36px;
+    box-shadow: 4px 4px 8px 8px #ddd;
+}
+.MS_history{
+    font-size: 18px;
+    margin-top: 36px;
+    text-align: justify;
+}
+
+#demo{
+    margin-bottom: 0px;
+    text-align: center;
+    font-weight: bold;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background: chartreuse;
+    height: 30px;
+    padding: 4px;
+  }
+.ritu{
+    background-color: #d3d6d8;
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+}
+.mycc{
+    width: 100%;
+
+}

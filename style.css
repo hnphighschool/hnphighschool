@@ -697,3 +697,16 @@ html{
     width: 100%;
 
 }
+
+.iframedesign1{
+    text-align: center;
+}
+.mainIframe1{
+    font-weight: bolder;
+    margin-top: 30px;
+}
+#description{
+    font-weight: bolder;
+    color: red;
+    
+}
